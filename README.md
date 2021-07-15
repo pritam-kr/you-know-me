@@ -6,3 +6,19 @@
 ## Project link
 
 [You know me](https://replit.com/@pritamkr/How-well-you-know-me#index.js)
+
+
+## Used two package manger to built this quiz game 
+ 
+ - [readline-sync ](https://www.npmjs.com/package/readline-sync)
+  used for synchronous readline for interactively running to have a conversation with the user via a console.
+ - [Chalk](https://www.npmjs.com/package/chalk) comes with an easy to use composable API where you just chain and nest the styles you want.
+
+
+## What you'll be learn
+ 
+ - for loop
+ - function
+ - string data into array
+ - how to use readline-sync and chalk package
+ - npm package manager
